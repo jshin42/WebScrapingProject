@@ -1,6 +1,6 @@
-Scraper2.5.py
+Scraper.py
 
-This Python script (Scraper2.5.py) is designed to scrape web content from a specified URL and save the text and images into a Microsoft Word document. It navigates through the website, visiting links found on the initial page, and captures text and images, organizing them neatly into a .docx file. This tool is particularly useful for compiling information from web pages into a single document for offline review, documentation, or archiving purposes.
+This Python script (Scraper.py) is designed to scrape web content from a specified URL and save the text and images into a Microsoft Word document. It navigates through the website, visiting links found on the initial page, and captures text and images, organizing them neatly into a .docx file. This tool is particularly useful for compiling information from web pages into a single document for offline review, documentation, or archiving purposes.
 Features
 
     Recursive Scraping: Automatically visits and scrapes content from all linked pages within the base URL domain.
